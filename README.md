@@ -1,6 +1,6 @@
 ## Olá! Eu sou o LeoVitor!!
 
-- 🔭 Atualmente estou me recolocando no mercado de trabalho e buscando uma oportunidade como Dev Front End
+- 🔭 Atualmente estou me recolocando no mercado de trabalho e buscando uma oportunidade como Dev Front End Jr.
 - 🌱 Estudando CSS, HTML e JavaScript
 - 🤔  Procuro obter mais conhecimento e dicas na área da tecnologia
 
