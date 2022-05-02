@@ -1,4 +1,4 @@
-## Olá! Eu sou o LeoVitor!!
+## Olá! Eu sou o Leo Vitor!!
 
 - 🔭 Atualmente estou me recolocando no mercado de trabalho e buscando uma oportunidade como Dev Front End Jr.
 - 🌱 Estudando CSS, HTML e JavaScript
