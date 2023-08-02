@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leo Vitor!!
 
-- 🔭 Atualmente buscando uma oportunidade como Dev Front End.
+- 🔭 Atualmente buscando uma oportunidade como Dev Front End/Estágio em tecnologia
 - 🌱 Estudando CSS, HTML e JavaScript
 - 🤔 Procuro obter mais conhecimento e dicas na área da tecnologia
 
